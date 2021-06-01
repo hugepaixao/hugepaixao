@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hugepaixao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m #Huge Paixao
+- 👀 I’m interested in #Java, #C++
+- 🌱 I’m currently learning Java Programming
+- 📝 I write articles on https://medium.com/
+- 📫 How to reach me tnr_skmn@hotmail.com
 
 <!---
 hugepaixao/hugepaixao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
