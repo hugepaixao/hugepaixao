@@ -2,7 +2,7 @@
 - 👀 I’m interested in #Java, #C++
 - 🌱 I’m currently learning Java Programming
 - 📝 I write articles on https://medium.com/
-- 📫 How to reach me tnr_skmn@hotmail.com
+- 📫 How to reach me deneme@hotmail.com
 
 <!---
 hugepaixao/hugepaixao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
